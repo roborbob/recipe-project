@@ -6,7 +6,8 @@ const Title = styled.div`
     display: block;
     background: black;
     text-align: center;
-    width: 100%;
+    width: 355px;
+    border-radius: 8px;
     h1 {
         font-family: 'Times New Roman';
         font-weight: 100;

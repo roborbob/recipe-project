@@ -2,19 +2,17 @@ import React from 'react';
 import styled from 'styled-components';
 
 const RecipeContainer = styled.div`
-    width: 100px;
+    flex: 100px;
     height: 100px;
     background: salmon;
-    margin-top: 15px;
     text-align: left;
     padding: 10px;
     h2{
-        font-size: 16px;
+        font-size: 10px;
         font-weight: 300;
     }
 
 `
-
 const Recipe = (props) => {
     return (
         <RecipeContainer>
