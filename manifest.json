@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Recipe Project",
+  "name": "A weekly selection of Recipes",
   "icons": [
     {
       "src": "favicon.ico",
